@@ -152,6 +152,9 @@ img{
     display: block;
 }
     /*Second-section*/
+.thierh-studio-section{
+    padding-top: 0;
+}
 .title-second-studio-section {
     color: var( --color-head);
     font-size: 14px;
